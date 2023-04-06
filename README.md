@@ -1,7 +1,7 @@
 
-<p align='center'>
+<!-- <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto%&height=20&animation=twinkling" />
-</p>
+</p> -->
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jihyun</h1>
 <h4 align="center">A FE developer from Korea</h4>
 
@@ -22,11 +22,11 @@
 <!--   <br>
   <img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/RESTful--API-000000?style=flat-square&logoColor=white"/></a>&nbsp  -->
-<!--   <br>
+  <img src="https://img.shields.io/badge/RESTful--API-000000?style=flat-square&logoColor=white"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
-  <br> -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp  -->
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 
