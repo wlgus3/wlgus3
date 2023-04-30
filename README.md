@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto%&height=20&animation=twinkling" />
 </p> -->
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jihyun</h1>
-<h4 align="center">A FE developer from Korea</h4>
+<!-- <h4 align="center">A FE developer from Korea</h4> -->
 
 
 <br>
