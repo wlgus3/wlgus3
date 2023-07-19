@@ -38,7 +38,7 @@
 
 </p>
 
-<h3 align="center">  Contect </h3>
+<h3 align="center">  Contact </h3>
 <p align="center">
   <a href="https://wlgus3.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tech&logoColor=white&link=https://changyu-ryou.github.io/"/></a>&nbsp
 <!--   <a href="https://www.instagram.com/chan_9oo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chan_9oo/"/></a>&nbsp -->
