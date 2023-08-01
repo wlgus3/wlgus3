@@ -35,6 +35,8 @@
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-20883D?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS_S3-E08B30?style=flat-square&logo=Amazon&logoColor=white"/></a>&nbsp 
+  
 
 </p>
 
