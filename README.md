@@ -23,7 +23,7 @@
 <!--   <img src="https://img.shields.io/badge/Sass-C76494?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mongoDB-116149?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp
+
 
 <!--   <br>
   <img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
@@ -33,9 +33,10 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp  -->
   <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GitHub-20883D?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+<!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub-20883D?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/AWS_S3-E08B30?style=flat-square&logo=Amazon&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp
   
 
 </p>
